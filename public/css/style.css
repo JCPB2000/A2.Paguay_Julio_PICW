@@ -75,3 +75,14 @@ th, td {
     background: #f5f5f5;
 }
 
+/* Total */
+.total-label {
+    text-align: right;
+    font-weight: bold;
+}
+
+.total {
+    font-weight: bold;
+}
+
+

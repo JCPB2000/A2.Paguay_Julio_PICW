@@ -31,3 +31,35 @@ body {
     align-items: center;
 }
 
+.logo img {
+    width: 100px;
+}
+
+.datos-empresa {
+    text-align: right;
+}
+
+h1 {
+    margin: 0;
+    font-size: 24px;
+    color: #007acc;
+}
+
+h2 {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #007acc;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+th, td {
+    border: 1px solid #ccc;
+    padding: 8px;
+}
+

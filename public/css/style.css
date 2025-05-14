@@ -85,4 +85,10 @@ th, td {
     font-weight: bold;
 }
 
+/* Footer */
+.footer {
+    text-align: center;
+    font-style: italic;
+    font-size: 12px;
+}
 
